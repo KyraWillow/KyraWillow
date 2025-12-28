@@ -11,10 +11,11 @@ Saat ini saya sedang fokus membangun aplikasi web dengan menonjolkan sisi desain
 * React.js
 
 **Tools & Environment**
-* Windows 11
+* Linux Fedora
 * Zed Editor
 * Obsidian
 * Git
+* Gemini CLI
 
 **Let's Connect**
 * 📸 [Instagram](https://www.instagram.com/oktasann/)
